@@ -1,0 +1,240 @@
+Twosum  
+ 
+maximum subarray  
+
+gray code
+
+条件逻辑判断
+
+eliminate vowel
+
+pow()  recursion和iteration
+
+given preorder/postorder array and inorder array 能否构成binarytree
+
+reverse integer
+
+Maximum Depth of Binary Tree  //如何test，overflow和stackoverflow
+
+Longest Common Prefix
+
+Wildcard Matching
+
+Reverse Linked List II
+
+ctci 10.4   bitset
+
+flat binary tree
+
+Merging k sorted arrays
+
+Count and Say
+
+Sort Colors
+
+Letter Combinations of a Phone Number
+
+stocking
+
+Add Two Numbers
+
+八产品，八仙桌的题目
+
+Palindrome Partitioning
+
+Valid Palindrome 
+
+heapsort 
+
+mergesort
+
+quicksort
+
+ctci 3.5  2 stack to 1 queue
+
+Container With Most Water
+
+java问题gc,abstract vs interface, where primitive(stack) and object(heap) stored
+
+3Sum Closest
+
+compare version number
+
+nth fibonacci (recursion, dp)  BigInteger
+
+data structure: hashmap & hashtable
+
+ctci 8.10 hash collision
+
+clustered-index和nonclustered index  database
+
+design pattern
+
+regular expression
+
+Random() 的method
+
+ctci 4.7 binary tree的lowest common ancestor
+
+random pointer
+
+Remove Duplicates from Sorted Array / list
+
+BFS  DFS
+
+prime number
+
+merge interval
+
+Insert Interval
+
+Longest Consecutive Sequence
+
+Pascal's Triangle
+
+Triangle
+
+stack max /Min Stack
+
+Intersection of Two Linked Lists
+
+valid sudoku
+
+Dijkstra
+
+Path Sum  - sum from root to leaf equals to a specific value
+
+Path Sum II
+
+diff. between JRE, JDK and JVM
+
+java里面treemap的实现
+
+arraylist和linkedlist的区别 array
+
+LRU cache
+
+one edit distance
+
+3sum
+
+merge two sorted list
+
+Unique Path
+
+OOD design a poker game 
+
+validate BST using three different methods, array vs linked list, how to implement hashtable
+
+java 的虚拟机在linux和window下具体怎么运行的
+
+binary tree level order traversal
+
+valid parenthesis
+
+ctci 16.1 difference between a thread and a process
+
+String to Integer (atoi)
+
+anagram
+
+ListIterator
+
+Trie  trie
+让解释了trie的插入和lookup怎么实现
+
+merge two sorted list 
+
+shuffle cards
+
+Find Minimum in Rotated Sorted Array I/II
+
+Minimum Path Sum
+
+Valid Parentheses
+
+Convert Sorted List to Binary Search Tree
+
+Convert Sorted array to Binary Search Tree
+
+text justification
+
+解释OOP  inheritance，polymorphism
+
+template
+
+Evaluate Reverse Polish Notation
+
+用dfs实现找词。面试官问bfs和dfs区别
+
+roman to integer / integer to roman
+
+next permutation
+
+ctci 1.13 rotate string
+
+Search in Rotated Sorted Array
+
+Linked List Cycle  
+
+Generate Parentheses
+
+climbing stairs
+
+HashMap 实现
+
+ood 停车场
+
+spiral matrix
+
+chess 设计
+
+ctci 4.6 tree next node
+
+given an array, find the 2 largest number.
+
+reverse words in a string I/II
+
+word ladder II
+
+Add Binary 
+
+heap
+
+First Missing Positive
+
+deck of cards
+
+Implement strStr()
+
+Merge K Sorted Array
+
+word break II
+
+#### pure storage OA  03/16/15
+
+palindrome partitioning
+
+Longest Consecutive Sequence
+
+Implement substr()
+
+### other 
+
+1, difference between c and c++;
+2, 什么是virtual function;
+3, c++ 的memory 分配问题;
+4, difference bewtween c++ and java; 
+5, abstract & interface;
+6, could java implement multiple interface?
+7, static keyword;
+8, Exception & Errors;
+9, set, map, list;
+10, final keyword;
+11, terminal command 怎么修改文件权限；
+12,如何在big file 里面查每个单词重复了多少次；
+13, design pattern -- factory method;
+14, database join clause;
+15, difference between where and having;
+16, agregation function;
+17, hadoop (根本不会……所以都不知道问的是什么)
